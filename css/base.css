@@ -1698,7 +1698,7 @@ table {
   border-spacing: 0; }
 
 /*#f9f2f8;*/
-/*darken($link-color, 5%);*/
+/*#9FD067;*/
 /* Apply these base styles to all icons */
 .icon-feed, .icon-twitter, .icon-google-plus, .icon-facebook {
   font-family: 'icons';
@@ -1738,7 +1738,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Times New Roman", serif;
+  font-family: "Open Sans", "Times New Roman", serif;
   font-size: 1.5rem;
   line-height: 1.6em;
   color: black; }
@@ -1771,14 +1771,14 @@ h4, h5, h6 {
   line-height: 1;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   text-align: center; }
 
 h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   line-height: 120%;
   margin-top: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   margin-bottom: 0%; }
 
 h1 {
@@ -1812,11 +1812,11 @@ a {
   -moz-transition: all ease 0.3s; }
 
 a:hover {
-  color: #789800; }
+  color: #b7cf94; }
 
 a.btn {
   text-decoration: none;
-  background-color: #9FD067;
+  background-color: #cfdfb7;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: black;
@@ -1834,7 +1834,7 @@ a.btn {
   font-weight: lighter; }
 
 a.btn:hover {
-  background: #789800; }
+  background: #b7cf94; }
 
 #header-arrow {
   font-size: 140px;
@@ -2085,7 +2085,7 @@ ul li {
   font-size: 1.8rem;
   line-height: 1.5em;
   font-weight: 300;
-  font-family: "Times New Roman", serif;
+  font-family: "Open Sans", "Times New Roman", serif;
   letter-spacing: 0; }
 
 .post-holder {
@@ -2119,7 +2119,7 @@ ul li {
   top: 40px;
   left: 2%;
   z-index: 99999;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   text-transform: uppercase;
   font-size: 1rem;
   line-height: 130%;
@@ -2134,10 +2134,10 @@ a.fn-item {
   color: white; }
 
 a.fn-item:hover {
-  color: #9FD067; }
+  color: #cfdfb7; }
 
 a.fn-item.active {
-  color: #789800;
+  color: #b7cf94;
   opacity: 1; }
 
 .post-after {
@@ -2166,7 +2166,7 @@ a.fn-item.active {
 .post-meta {
   display: inline-block;
   margin: 0 0 5px 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 1.5rem;
   color: #9EABB3; }
 
@@ -2296,7 +2296,7 @@ a.fn-item.active {
   width: 80%;
   max-width: 700px;
   margin: 4rem auto;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 1.3rem;
   color: #9EABB3;
   text-align: center; }
@@ -2336,7 +2336,7 @@ a.fn-item.active {
   position: relative;
   margin: 0rem 0 0 0;
   padding: 1rem 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Nunito", sans-serif;
   font-size: 1.3rem;
   line-height: 1.5em;
   color: #BBC7CC;
